@@ -11,6 +11,6 @@ Data is saved to files so each user has their own book list.
 
 ## Build & Run
 ```bash
-g++ -std=c++17 -O2 book_log.cpp -o book_log
-./book_log   # on macOS/Linux
-book_log.exe # on Windows
+g++ -std=c++17 -O2 book_log.cpp -o booklog
+./booklog   # on macOS/Linux
+booklog.exe # on Windows
